@@ -29,6 +29,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ### 📚 Atualmente estudando
@@ -42,8 +46,8 @@
 
 ### 🌐 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-vicentin-da-silva-16a84022b/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-danilo-vicentin.vercel.app/)
 
 ---
 
