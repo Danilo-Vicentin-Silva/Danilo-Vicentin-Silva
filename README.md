@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Danilo!</h1>
 <p align="center">
-  Estagiário em Inteligência de Mercado | Entusiasta da Power Platform ⚡ | Explorando o universo da IA 🤖
+  Estagiário em Inteligência de Mercado | Entusiasta da Power Platform ⚡ | Explorando o universo da IA 🤖 | Desenvolvedor Web
 </p>
 
 ---
@@ -17,7 +17,6 @@
 - 💡 Desenvolvo soluções com **Power Apps**, **Power Automate** e **Power BI**
 - 📦 Automatizo rotinas de negócios usando **Microsoft Lists**, **SharePoint** e outras ferramentas Microsoft 365
 - 🧮 Estou aprendendo **DAX**, **SQL** e **Linguagens de Programação** como **Java**, **Python** e **C**
-- 🚀 Faço parte da construção de um programa de capacitação para requisitantes no **SAP MM** para a **Villares Metals**
 
 ---
 
